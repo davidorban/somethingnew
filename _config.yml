@@ -1,0 +1,23 @@
+# Jekyll configuration for GitHub Pages
+theme: null
+markdown: kramdown
+plugins: []
+
+# Site configuration
+title: Something New - AIs and Us
+description: A book by David Orban about artificial intelligence, technology, and humanity
+author: David Orban
+url: https://davidorban.github.io/somethingnew
+
+# Build settings
+exclude:
+  - something-new-*.txt
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .DS_Store
