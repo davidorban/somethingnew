@@ -24,6 +24,7 @@ Or the main site: https://somethingnew.davidorban.com
 - [Paperback on Amazon](https://amazon.com/dp/9798697270899)
 - [Kindle on Amazon](https://amazon.com/dp/B08NDSLZ9J)
 - [PDF Download](something-new-david-orban-english.pdf)
+- [🎧 Audiobook on YouTube](https://www.youtube.com/playlist?list=PLuL8LoDwhr6AtiOdBoBSXwWNVVRNj3RdY)
 
 ### Spanish
 - [Paperback on Amazon](https://amazon.com/dp/9781536955040)
