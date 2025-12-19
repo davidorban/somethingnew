@@ -23,21 +23,21 @@ Or the main site: https://somethingnew.davidorban.com
 ### English
 - [Paperback on Amazon](https://amazon.com/dp/9798697270899)
 - [Kindle on Amazon](https://amazon.com/dp/B08NDSLZ9J)
-- [PDF Download](assets/something-new-david-orban-english.pdf)
+- [PDF Download](assets/pdfs/something-new-david-orban-english.pdf)
 - [🎧 Audiobook on YouTube](https://www.youtube.com/playlist?list=PLuL8LoDwhr6AtiOdBoBSXwWNVVRNj3RdY)
 
 ### Spanish
 - [Paperback on Amazon](https://amazon.com/dp/9781536955040)
 - [Kindle on Amazon.es](https://amazon.es/dp/B073NL8YJD)
-- [PDF Download](assets/something-new-david-orban-spanish.pdf)
+- [PDF Download](assets/pdfs/something-new-david-orban-spanish.pdf)
 
 ### Italian
 - [Kindle on Amazon](https://amazon.com/dp/B071SLF6DY)
 - [Kindle on Amazon.it](https://amazon.it/dp/B071SLF6DY)
-- [PDF Download](assets/something-new-david-orban-italian.pdf)
+- [PDF Download](assets/pdfs/something-new-david-orban-italian.pdf)
 
 ### Hungarian
-- [PDF Download](assets/something-new-david-orban-hungarian.pdf)
+- [PDF Download](assets/pdfs/something-new-david-orban-hungarian.pdf)
 - [🎧 Audiobook on YouTube](https://www.youtube.com/playlist?list=PLh0_R7ZXIlVr4h_7EMCJXmIM54SpEfbqX)
 
 ## 📄 Repository Structure
