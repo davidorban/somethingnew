@@ -38,6 +38,7 @@ Or the main site: https://somethingnew.davidorban.com
 
 ### Hungarian
 - [PDF Download](something-new-david-orban-hungarian.pdf)
+- [🎧 Audiobook on YouTube](https://www.youtube.com/playlist?list=PLh0_R7ZXIlVr4h_7EMCJXmIM54SpEfbqX)
 
 ## 📄 Repository Structure
 
