@@ -77,6 +77,10 @@ David Orban is a researcher, entrepreneur, and futurist exploring the convergenc
 
 ## 📝 License
 
+**Book Content**: Licensed under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+**Website Code**: GNU Affero General Public License v3 (see archive/LICENSE.agpl)
+
 Copyright © 2018 David Orban
 
 ## 🤝 Contributing
